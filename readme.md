@@ -60,4 +60,3 @@ To run the AI Tutor project:
 - Tailwind CSS
 - [Additional libraries to be added as needed]
 
-![newww](https://github.com/user-attachments/assets/c043d5aa-7763-4caa-b8d9-e402cbdb8ef2)
